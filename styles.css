@@ -24,7 +24,7 @@ header {
 
 .foto-RR{
     position: relative;
-    bottom: -120px;
+    bottom: -100px;
     display: block;
     margin: 50px auto;
     width: 350px;
@@ -48,4 +48,5 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
